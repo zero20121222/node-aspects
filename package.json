@@ -1,0 +1,26 @@
+{
+  "name": "node-aspects",
+  "version": "0.1.0",
+  "description": "set aop to node",
+  "main": "node-aspects.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zero20121222/node-aspects.git"
+  },
+  "keywords": [
+    "node",
+    "aop"
+  ],
+  "author": "MichaelZero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero20121222/node-aspects/issues"
+  },
+  "homepage": "https://github.com/zero20121222/node-aspects"
+}
